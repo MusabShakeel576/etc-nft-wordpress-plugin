@@ -1,0 +1,1 @@
+# etc-nft-wordpress-plugin
